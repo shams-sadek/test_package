@@ -1,0 +1,14 @@
+{
+    "name": "sadek/test",
+    "description": "For Demo",
+    "type": "package",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "shams sadek",
+            "email": "shams_sadek@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
